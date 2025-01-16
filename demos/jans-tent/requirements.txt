@@ -84,7 +84,7 @@ pylint-common==0.2.5
 pylint-django==2.5.3
 pylint-flask==0.6
 pylint-plugin-utils==0.7
-pyOpenSSL==22.0.0
+pyOpenSSL==24.0.0
 pyparsing==3.0.9
 PySocks==1.7.1
 pytest==7.1.3
