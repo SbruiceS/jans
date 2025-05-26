@@ -30,7 +30,7 @@
 		<jans-fido2.version>${project.version}</jans-fido2.version>
 
 		<jakarta.jms.api.version>2.0.3</jakarta.jms.api.version>
-		<activemq.version>5.15.16</activemq.version>
+		<activemq.version>5.16.8</activemq.version>
 
 		<jettison.version>1.5.4</jettison.version>
 
@@ -260,7 +260,7 @@
             <dependency>
                 <groupId>org.bitbucket.b_c</groupId>
                 <artifactId>jose4j</artifactId>
-                <version>0.7.9</version>
+                <version>0.9.4</version>
                 <scope>test</scope>
             </dependency>
             <dependency>
