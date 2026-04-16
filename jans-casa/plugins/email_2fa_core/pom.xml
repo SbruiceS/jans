@@ -12,7 +12,7 @@
 		<maven.compiler.source>11</maven.compiler.source>
 		<maven.compiler.target>11</maven.compiler.target>
 		<plugin.id>email_2fa_core</plugin.id>
-        <bc.version>1.78</bc.version>
+        <bc.version>1.84</bc.version>
 	</properties>
 
 	<repositories>
@@ -76,7 +76,7 @@
 		<dependency>
 			<groupId>com.sun.mail</groupId>
 			<artifactId>jakarta.mail</artifactId>
-			<version>1.6.7</version>
+			<version>1.6.8</version>
 			<exclusions>
 				<exclusion>
 					<groupId>jakarta.activation</groupId>
